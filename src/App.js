@@ -1,7 +1,7 @@
 import React from 'react'
-import SocialIcons from './components/SocialIcons';
-import Experience from './components/Experience';
-import ProfileCard from './components/ProfileCard';
+import SocialIcons from './Components/SocialIcons';
+import Experience from './Components/Experience';
+import ProfileCard from './Components/ProfileCard';
 
 function App() {
   const handleDownloadCV = () => {
