@@ -23,7 +23,7 @@ function SocialIcons() {
         window.open('https://www.linkedin.com/in/rizky-fomma-669a9922b/', '_blank');
         break;
       case 'github':
-        window.open('https://github.com/rizkyramadhan', '_blank');
+        window.open('https://github.com/npm1nstall', '_blank');
         break;
       default:
         break;
