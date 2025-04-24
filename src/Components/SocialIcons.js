@@ -20,7 +20,7 @@ function SocialIcons() {
         window.open('https://wa.me/6281333903531', '_blank');
         break;
       case 'linkedin':
-        window.open('https://www.linkedin.com/in/rizkyramadhan', '_blank');
+        window.open('https://www.linkedin.com/in/rizky-fomma-669a9922b/', '_blank');
         break;
       case 'github':
         window.open('https://github.com/rizkyramadhan', '_blank');
