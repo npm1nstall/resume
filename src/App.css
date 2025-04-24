@@ -1,0 +1,44 @@
+
+
+.work-experience {
+  margin-top: 2rem;
+  color: #2c3e50; /* Warna biru tua yang elegan */
+  background: rgba(255, 255, 255, 0.9);
+  padding: 2rem;
+  border-radius: 15px;
+}
+
+.work-experience h2 {
+  border-bottom: 2px solid #3498db; /* Warna biru cerah */
+  padding-bottom: 10px;
+  margin-bottom: 1rem;
+  color: #2980b9; /* Warna biru yang lebih gelap */
+}
+
+.work-experience ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.work-experience li {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  background: #f4f6f9; /* Warna abu-abu muda */
+  border-radius: 10px;
+  border: 1px solid #e0e6ed;
+}
+
+.work-experience strong {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: #34495e; /* Warna biru abu-abu */
+  font-weight: bold;
+}
+
+.work-experience p {
+  color: #7f8c8d; /* Warna abu-abu netral */
+  margin: 0;
+}
+
+
+/* CSS untuk pengalaman kerja tetap sama */
